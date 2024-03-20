@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is TakoyCode and I'm a guy from Drammen, Norway.</p>
+<p align="left">My name is Audun and I'm a guy from Drammen, Norway.</p>
 
 ###
 
