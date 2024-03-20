@@ -1,7 +1,3 @@
-<img align="left" height="200" src="https://avatars.githubusercontent.com/u/129565940?v=4"  />
-
-###
-
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
@@ -29,6 +25,14 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TakoyCode&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
 
 ###
 
