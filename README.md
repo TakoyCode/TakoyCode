@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since january, 2024<br>📚 I'm currently learning Node.js and React <br>🎯 Goals: Make a fullstack project with React, Node.js and SQLExpress<br>🎲 Fun fact: I really love niche Autobattler games</p>
+<p align="left">✨ Creating bugs since january, 2024<br>📚 I'm currently learning Angular <br>🎯 Goals: Become a wellrounded fullstack developer<br>🎲 Fun fact: I really love niche Autobattler games</p>
 
 ###
 
