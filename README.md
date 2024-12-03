@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since january, 2024<br>📚 I'm currently learning Angular <br>🎯 Goals: Become a well rounded fullstack developer<br>🎲 Fun fact: I really love niche Autobattler games</p>
+<p align="left">✨ Creating bugs since january, 2024<br>📚 I'm currently learning Typescript and Angular <br>🎯 Goals: Become a well rounded fullstack developer<br>🎲 Fun fact: I really love niche Autobattler games</p>
 
 ###
 
